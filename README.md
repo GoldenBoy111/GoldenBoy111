@@ -1,4 +1,13 @@
-### Hi there 👋
+### My name is Kintaro Oe.
+I'm 25 years old.
+I'm an easy-going, job-hopping part-timer.
+
+Tokyo University Dept. of Law dropout.
+He withdrew from school because he had mastered the entire curriculum.
+Since then he has been changing jjobs numerous times, learning about life.
+Riding his favorite bike, Crescent Moon, he keeps on moving.
+And perhaps someday, he may save Japan, or even the world...
+
 
 <!--
 **GoldenBoy111/GoldenBoy111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
